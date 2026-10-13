@@ -1,0 +1,7 @@
+*.img
+*.hdr
+*.tif
+*.dim
+*.data/
+__pycache__/
+.ipynb_checkpoints/
